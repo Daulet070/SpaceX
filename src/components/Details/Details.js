@@ -21,8 +21,7 @@ const Details = () => (
                     title="SpaceX Falcon 1, flight 4"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen>
-                </iframe>
+                    allowFullScreen />
 			</div>
 		</div>
 		<a href="calendar.html" className="button button-back">go back</a>
